@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Adrian
-- 👀 I’m interested in
+- 👀 I’m interested in ...
   - atmospheric sciences,
   - greenhouse gas and air polluant measurements
   - emission assessment of the above mentioned
   - and of course (warning: buzz word alert!) machine learning.
-- 🌱 I’m currently learning on a machine.
-- 💞️ I’m looking to collaborate on "interesting topics" ;-)
+- 🌱 I’m currently learning ... on a machine.
+- 💞️ I’m looking to collaborate on ... "interesting topics" ;-)
 
 
 <!---
